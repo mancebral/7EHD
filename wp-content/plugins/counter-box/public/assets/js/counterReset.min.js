@@ -1,0 +1,1 @@
+"use strict";document.addEventListener("DOMContentLoaded",(function(){const e=document.querySelectorAll(".counter-reset");e.length>0&&e.forEach((e=>{e.addEventListener("click",(()=>{let t=e.closest("div").className;localStorage.removeItem("."+t),document.location.reload()}))}))}));

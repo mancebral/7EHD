@@ -1,0 +1,10 @@
+/*!
+ * ========= INFORMATION ============================
+ * - document: Counter Box Pro
+ * - brand:     Wow-Company
+ * - brand-url: https://wow-company.com/
+ * - store-url: https://wow-estore.com/
+ * - author:    Dmytro Lobov
+ * - url:       https://wow-estore.com/item/counter-box-pro/
+ * ====================================================== */
+[class*=counter-box-]{position:relative}[class*=counter-box__]{position:relative;box-sizing:content-box;display:inline-block;text-align:center}[class*=counter-box__]:after{position:absolute;left:0;right:0;line-height:1}.counter-reset{position:absolute;top:0;right:0;color:red;background:0 0;cursor:pointer;border:0}.counter-reset:hover{text-decoration:underline}
